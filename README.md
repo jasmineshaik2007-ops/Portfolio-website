@@ -34,14 +34,6 @@ Portfolio-website/
 * HTML5
 * CSS3
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/jasmineshaik2007-ops/Portfolio-website.git
-```
-
 ### Open the Project
 
 1. Navigate to the project folder.
