@@ -17,16 +17,16 @@ A responsive personal portfolio website that showcases my profile, skills, proje
 ```text
 Portfolio-website/
 │
-├── index.html          # Home page
-├── about.html          # About Me page
-├── project.html        # Projects page
-├── resume.html         # Resume page
-├── contact.html        # Contact page
-├── style.css           # Website styling
-├── profile.webp        # Profile image
-├── my_intro.mp4        # Introduction video
-├── background 1.jpg    # Background image
-└── resume finall       # Resume document
+├── index.html          
+├── about.html          
+├── project.html        
+├── resume.html         
+├── contact.html       
+├── style.css           
+├── profile.webp        
+├── my_intro.mp4        
+├── background 1.jpg    
+└── resume finall       
 ```
 
 ## 🛠️ Technologies Used
